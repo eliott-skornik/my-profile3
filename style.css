@@ -1,0 +1,97 @@
+/* Colors and Fonts */
+
+body{
+background: #F4CA76;
+color: rgb(66;75;84);
+font-family: 'roboto';
+font-size: 19px;
+font-weight: none;
+}
+
+a {
+font-family: 'roboto';
+text-decoration: none;
+color: #D5ACA9;
+font-weight: 600;
+font-size: 16px;
+}
+
+h1, h2, h3 {
+font-family: 'impact';
+}
+
+h1{
+color: #BF3100;
+font-size: 35px;
+font-weight: 900;
+}
+
+h2{
+color: #BF3100;
+font-size: 25px;
+font-weight: lighter;
+font-weight: 500;
+}
+
+
+
+a:hover {
+color: #E2C2C6;
+}
+
+.container {
+width: 560px;
+margin: 50px auto;
+}
+
+
+
+
+
+
+
+#introduction p {
+margin-bottom: 70px; 
+}
+
+.card-white {
+background-color: white;
+padding: 50px;
+box-shadow: 0px 10px 30px rgba(0,0,0,0.4);
+border-radius: 5px;
+margin: 30px 0px;
+text-align: center;
+}
+
+.img-circle {
+border-radius: 90%;
+}
+
+
+
+
+
+
+
+
+
+
+
+div.social a img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn-blue {
+background-color: #EC9F05;
+color: white;
+padding: 20px 25px;
+border-radius: 5px;
+font-size: 20px
+}
+
+.btn-blue:hover {
+background-color: #F4CA76;
+color: white;
+}
